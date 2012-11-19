@@ -1,4 +1,4 @@
-require('ext/newproject/newproject').parseSamplesJSON(
+require('ext/newproject/newproject').parseSamplesJSON('
 {
 "version": "0.1",
 "sample-categories":
@@ -171,4 +171,4 @@ require('ext/newproject/newproject').parseSamplesJSON(
 	}
 ]
 }
-);
+');
